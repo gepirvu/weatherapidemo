@@ -31,7 +31,8 @@ resource "azurerm_container_group" "cf_weatherapp"{
     }
 }   
 
-#test
+#testing part
+
 
 
 
